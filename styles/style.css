@@ -139,4 +139,40 @@ nav ul li a:hover {
 }
 #cupom button:hover {
   background-color: #227C70;
+}
+
+footer {
+  text-align: center;
+  font-size: 1.5rem;
+  border-top: 2px solid #243763;
+  margin-top: 1rem;
+  padding: 1.2rem;
+}
+
+#pedra-flor {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem 0;
+}
+#pedra-flor h3 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  font-weight: 300;
+}
+#pedra-flor h4 {
+  font-size: 1.2rem;
+  color: #227C70;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+  margin: 1rem;
+}
+#pedra-flor p {
+  font-size: 1rem;
+  font-weight: 300;
+  color: #227C70;
+  line-height: 1.25rem;
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
